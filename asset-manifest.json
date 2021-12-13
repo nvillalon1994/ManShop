@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ManShop/static/css/main.1a2c1f7f.chunk.css",
-    "main.js": "/ManShop/static/js/main.5b028ec8.chunk.js",
-    "main.js.map": "/ManShop/static/js/main.5b028ec8.chunk.js.map",
+    "main.js": "/ManShop/static/js/main.63d2d351.chunk.js",
+    "main.js.map": "/ManShop/static/js/main.63d2d351.chunk.js.map",
     "runtime-main.js": "/ManShop/static/js/runtime-main.f910e3d4.js",
     "runtime-main.js.map": "/ManShop/static/js/runtime-main.f910e3d4.js.map",
     "static/js/2.3e59d5ff.chunk.js": "/ManShop/static/js/2.3e59d5ff.chunk.js",
@@ -30,6 +30,6 @@
     "static/js/runtime-main.f910e3d4.js",
     "static/js/2.3e59d5ff.chunk.js",
     "static/css/main.1a2c1f7f.chunk.css",
-    "static/js/main.5b028ec8.chunk.js"
+    "static/js/main.63d2d351.chunk.js"
   ]
 }
